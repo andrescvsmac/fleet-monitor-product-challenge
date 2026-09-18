@@ -1,0 +1,19 @@
+# frontend
+node_modules/
+dist/
+.vite/
+
+# backend
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# editors / os
+.DS_Store
+.idea/
+.vscode/
+*.local
+.mypy_cache/
+.ruff_cache/
